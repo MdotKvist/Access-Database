@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kvist\\Desktop\\Access database\\Access Database\\Access Database\\Access Database.csproj": {}
+    "C:\\Users\\kvist\\Desktop\\Access database\\Access database\\Access Database\\Access Database.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kvist\\Desktop\\Access database\\Access Database\\Access Database\\Access Database.csproj": {
+    "C:\\Users\\kvist\\Desktop\\Access database\\Access database\\Access Database\\Access Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kvist\\Desktop\\Access database\\Access Database\\Access Database\\Access Database.csproj",
+        "projectUniqueName": "C:\\Users\\kvist\\Desktop\\Access database\\Access database\\Access Database\\Access Database.csproj",
         "projectName": "Access Database",
-        "projectPath": "C:\\Users\\kvist\\Desktop\\Access database\\Access Database\\Access Database\\Access Database.csproj",
+        "projectPath": "C:\\Users\\kvist\\Desktop\\Access database\\Access database\\Access Database\\Access Database.csproj",
         "packagesPath": "C:\\Users\\kvist\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kvist\\Desktop\\Access database\\Access Database\\Access Database\\obj\\",
         "projectStyle": "PackageReference",

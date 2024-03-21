@@ -8,7 +8,7 @@ await using var dataSource = NpgsqlDataSource.Create(connectionString);
 
 
 
-//Read
+//Reading
 await using (var cmd = dataSource.CreateCommand("SELECT * FROM test"))
 await using (var reader = await cmd.ExecuteReaderAsync())
 {
@@ -19,7 +19,7 @@ await using (var reader = await cmd.ExecuteReaderAsync())
 }
 
 
-//Write
+//Writing
 await using (var cmd = dataSource.CreateCommand("INSERT INTO test (text) VALUES ($1)"))
 {
     cmd.Parameters.AddWithValue(Console.ReadLine());
