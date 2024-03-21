@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AVc0xeMWux20i2WVmxxArRFmyewx3/drghI8LlSejCVKInaXgmsOm8af85Wz5yxpa4KFMe+xX1B1NAnablG9Cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kvist\\Desktop\\Access database\\Access Database\\Access Database\\Access Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kvist\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kvist\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\kvist\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
